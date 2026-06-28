@@ -222,7 +222,7 @@ Use these support files:
 You do not need to memorize GitHub Actions syntax.
 
 Keep returning to the main story:
-
+to test the ci pipeline
 1. code
 2. verify
 3. package
